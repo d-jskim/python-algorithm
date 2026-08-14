@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/181926
 # 알고리즘: 조건문
 # 작성자: 학생
-# 작성일: 2026. 08. 13. 17:57:21
+# 작성일: 2026. 08. 14. 14:40:57
 
 def solution(n, control):
     answer = n
