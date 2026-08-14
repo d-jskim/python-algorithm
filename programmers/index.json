@@ -1,5 +1,14 @@
 [
   {
+    "lessonId": "181877",
+    "title": "대문자로 바꾸기",
+    "level": "0",
+    "category": "코딩 기초 트레이닝",
+    "status": "passed",
+    "path": "programmers/코딩 기초 트레이닝/[Lv0][181877] 대문자로 바꾸기",
+    "lastRun": "2026-08-14T23:51:44.602Z"
+  },
+  {
     "lessonId": "181848",
     "title": "문자열을 정수로 변환하기",
     "level": "0",
