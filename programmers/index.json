@@ -7,5 +7,14 @@
     "status": "passed",
     "path": "programmers/코딩 기초 트레이닝/[Lv0][181910] 문자열의 뒤의 n글자",
     "lastRun": "2026-08-14T02:30:52.069Z"
+  },
+  {
+    "lessonId": "181944",
+    "title": "홀짝 구분하기",
+    "level": "0",
+    "category": "코딩 기초 트레이닝",
+    "status": "unknown",
+    "path": "programmers/코딩 기초 트레이닝/[Lv0][181944] 홀짝 구분하기",
+    "lastRun": "2026-08-14T03:41:41.574Z"
   }
 ]
