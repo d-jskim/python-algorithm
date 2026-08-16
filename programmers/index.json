@@ -27,6 +27,15 @@
     "lastRun": "2026-08-14T02:30:52.069Z"
   },
   {
+    "lessonId": "181840",
+    "title": "정수 찾기",
+    "level": "0",
+    "category": "코딩 기초 트레이닝",
+    "status": "passed",
+    "path": "programmers/코딩 기초 트레이닝/[Lv0][181840] 정수 찾기",
+    "lastRun": "2026-08-16T05:39:17.512Z"
+  },
+  {
     "lessonId": "181839",
     "title": "주사위 게임 1",
     "level": "0",
