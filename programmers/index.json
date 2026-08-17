@@ -9,6 +9,15 @@
     "lastRun": "2026-08-14T23:51:44.602Z"
   },
   {
+    "lessonId": "181849",
+    "title": "문자열 정수의 합",
+    "level": "0",
+    "category": "코딩 기초 트레이닝",
+    "status": "passed",
+    "path": "programmers/코딩 기초 트레이닝/[Lv0][181849] 문자열 정수의 합",
+    "lastRun": "2026-08-17T23:44:17.270Z"
+  },
+  {
     "lessonId": "181848",
     "title": "문자열을 정수로 변환하기",
     "level": "0",
