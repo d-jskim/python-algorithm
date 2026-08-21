@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/181854
 # 알고리즘: 함수(메서드)
 # 작성자: 학생
-# 작성일: 2026. 08. 21. 17:43:34
+# 작성일: 2026. 08. 21. 17:45:14
 
 def solution(arr, n):
     
@@ -14,7 +14,7 @@ def solution(arr, n):
         for i in range(0, len(arr), 2):
             arr[i] += n
     else: # 짝수
-        for i in range(1, len(arr)+1, 2):
+        for i in range(1, len(arr), 2):
             arr[i] += n
     
     return arr
