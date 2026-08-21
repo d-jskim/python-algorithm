@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/181854
 # 알고리즘: 함수(메서드)
 # 작성자: 학생
-# 작성일: 2026. 08. 21. 17:28:42
+# 작성일: 2026. 08. 21. 17:43:34
 
 def solution(arr, n):
     
